@@ -1,0 +1,15 @@
+{
+  "tenders": [
+    {
+      "id": "1",
+      "number": "TDR-001",
+      "product": "11M-500KG",
+      "site": "Balangoda",
+      "quantity": 120,
+      "awardedDate": "2024-06-01",
+      "dueDate": "2024-07-01",
+      "completed": 30
+    }
+  ],
+  "manufacturingRecords": []
+}
